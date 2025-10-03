@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darren\\Documents\\GitHub\\DMHStockMaster\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj": {}
+    "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darren\\Documents\\GitHub\\DMHStockMaster\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj": {
+    "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darren\\Documents\\GitHub\\DMHStockMaster\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj",
+        "projectUniqueName": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj",
         "projectName": "WarehouseSMS",
-        "projectPath": "C:\\Users\\Darren\\Documents\\GitHub\\DMHStockMaster\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj",
+        "projectPath": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj",
         "packagesPath": "C:\\Users\\Darren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darren\\Documents\\GitHub\\DMHStockMaster\\WarehouseSMS\\WarehouseSMS\\obj\\",
+        "outputPath": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,9 +67,17 @@
               "target": "Package",
               "version": "[8.0.20, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.20, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

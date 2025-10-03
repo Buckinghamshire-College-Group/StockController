@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WarehouseSMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d52264e7702aad1c335725a02e2e5c9576f74e9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47c07558c89062ee1790576bb8e9a01bff3b2d94")]
 [assembly: System.Reflection.AssemblyProductAttribute("WarehouseSMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WarehouseSMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
