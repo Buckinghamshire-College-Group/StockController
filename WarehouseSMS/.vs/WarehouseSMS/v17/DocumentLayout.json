@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Darren\\Documents\\GitHub\\DMHStockMaster\\WarehouseSMS\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|c:\\users\\darren\\documents\\github\\stockcontroller\\warehousesms\\warehousesms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|solutionrelative:warehousesms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|c:\\users\\darren\\documents\\github\\stockcontroller\\warehousesms\\warehousesms\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|solutionrelative:warehousesms\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|c:\\users\\darren\\documents\\github\\stockcontroller\\warehousesms\\warehousesms\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|solutionrelative:warehousesms\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|c:\\users\\darren\\documents\\github\\stockcontroller\\warehousesms\\warehousesms\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|solutionrelative:warehousesms\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|c:\\users\\darren\\documents\\github\\stockcontroller\\warehousesms\\warehousesms\\warehousesms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11251DAC-45A9-4221-A0F7-90EF40F17EDA}|WarehouseSMS\\WarehouseSMS.csproj|solutionrelative:warehousesms\\warehousesms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\appsettings.json",
+              "RelativeDocumentMoniker": "WarehouseSMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\appsettings.json*",
+              "RelativeToolTip": "WarehouseSMS\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T14:39:06.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WarehouseSMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WarehouseSMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwFAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:36:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WarehouseSMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml*",
+              "RelativeToolTip": "WarehouseSMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T14:35:13.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WarehouseSMS\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WarehouseSMS\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-28T14:35:05.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarehouseSMS",
+              "DocumentMoniker": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj",
+              "RelativeDocumentMoniker": "WarehouseSMS\\WarehouseSMS.csproj",
+              "ToolTip": "C:\\Users\\Darren\\Documents\\GitHub\\StockController\\WarehouseSMS\\WarehouseSMS\\WarehouseSMS.csproj",
+              "RelativeToolTip": "WarehouseSMS\\WarehouseSMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T14:34:00.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
